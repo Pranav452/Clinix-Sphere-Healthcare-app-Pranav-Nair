@@ -47,9 +47,7 @@ Got ideas? Found a bug? We're all ears! Feel free to:
 - 🛠️ Submit a pull request
 - 🌟 Give us a star if you like what you see!
 
-## Shoutouts
 
-Big thanks to the awesome folks behind Next.js, Tailwind, and all the other tools that made this possible. You rock! 🎸
 
 ## Questions?
 
