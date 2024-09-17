@@ -15,7 +15,7 @@ Ever wished you had a cool, easy way to log your health stuff? Well, you're in l
 
 1. Clone this bad boy:
    ```
-   git clone https://github.com/your-username/health-records-dashboard.git
+   git clone https://github.com/Pranav452/Clinix-Sphere-Healthcare-app-Pranav-Nair.git
    cd health-records-dashboard
    ```
 
