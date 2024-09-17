@@ -48,7 +48,6 @@ Got ideas? Found a bug? We're all ears! Feel free to:
 - 🌟 Give us a star if you like what you see!
 
 
-
 ## Questions?
 
 Hit us up! Open an issue or slide into our DMs (just kidding, we don't have DMs, but you get the idea).
